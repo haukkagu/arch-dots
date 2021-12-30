@@ -1,5 +1,6 @@
 #!/bin/sh
 
-sxhkd &
+dunst &
 slstatus &
+sxhkd &
 exec dwm
