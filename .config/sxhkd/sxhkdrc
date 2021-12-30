@@ -1,0 +1,20 @@
+super + Return
+	st
+
+super + n
+	firefox
+
+super + s
+	flameshot gui
+
+super + e
+	emacs
+
+XF86AudioMute
+	pulsemixer --toggle-mute
+
+XF86AudioLowerVolume
+	pulsemixer --change-volume -5
+
+XF86AudioRaiseVolume
+	pulsemixer --change-volume 5

@@ -1,0 +1,12 @@
+[submodule ".config/dwm"]
+	path = .config/dwm
+	url = https://github.com/haukkagu/dwm
+[submodule ".config/st"]
+	path = .config/st
+	url = https://github.com/haukkagu/st
+[submodule ".config/dmenu"]
+	path = .config/dmenu
+	url = https://github.com/haukkagu/dmenu
+[submodule ".config/slstatus"]
+	path = .config/slstatus
+	url = https://github.com/haukkagu/slstatus
